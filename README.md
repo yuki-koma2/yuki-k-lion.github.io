@@ -3,3 +3,12 @@ my github page.
 
 ## site URL
 https://yuki-k-lion.github.io/
+
+|sns|id|
+|--|--|
+|twitter|yukikoma4|
+|instagram|null|
+|facebook|null|
+|note|null|
+|github|yuki-k-lion|
+|github|yukikom-biz|
