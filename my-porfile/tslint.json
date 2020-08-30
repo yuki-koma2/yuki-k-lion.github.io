@@ -1,0 +1,26 @@
+{
+  "extends": ["tslint:latest", "tslint-react", "tslint-config-prettier"],
+  "linterOptions": {
+    "exclude": ["**/__stories__/**", "**/__tests__/**", ".storybook/*"]
+  },
+  "rules": {
+    "jsx-wrap-multiline": false,
+    "ordered-imports": false,
+    "no-any": false,
+    "no-empty": false,
+    "no-submodule-imports": false,
+    "no-namespace": false,
+    "no-implicit-dependencies": false,
+    "no-trailing-whitespace": true,
+    "object-literal-sort-keys": false,
+    "jsx-boolean-value": false,
+    "jsx-no-lambda": false,
+    "member-access": false,
+    "member-ordering": false,
+    "interface-name": false,
+    "triple-equals": [true, "allow-null-check"],
+    "max-classes-per-file": false,
+    "variable-name": [true, "allow-pascal-case", "allow-leading-underscore"],
+    "interface-over-type-literal": false
+  }
+}
