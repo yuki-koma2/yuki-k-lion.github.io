@@ -12,3 +12,4 @@ https://yuki-k-lion.github.io/
 |note|null|
 |github|yuki-k-lion|
 |github|yukikom-biz|
+|Qiita|https://qiita.com/Yuki-k-lion|
